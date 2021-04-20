@@ -40,12 +40,11 @@
  - ![ExpressJS](https://img.shields.io/badge/JS-Express.js-red)
 
 
-<br/>
 
-<a href="https://github.com/Artem-Chebotarev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Artem-Chebotarev&theme=buefy&show_icons=true" />
+<!-- <a href="https://github.com/Artem-Chebotarev"> -->
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Artem-Chebotarev&theme=buefy&show_icons=true" /> -->
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artem-Chebotarev&theme=buefy&layout=compact" /> -->
-</a>
+
 
 <br/>
 
