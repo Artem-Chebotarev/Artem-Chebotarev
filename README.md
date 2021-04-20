@@ -19,9 +19,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![SASS](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
@@ -37,9 +35,9 @@
 
 <h3> 🎓 &nbsp;Изучаю в данный момент</h3>
 
-  ![AngularCLI](https://img.shields.io/badge/JS-ANGULAR-blue)
-  ![TypeScript](https://img.shields.io/badge/TS-TypeScript-yellowgreen)
-  ![ExpressJS](https://img.shields.io/badge/JS-Express.js-red)
+ - ![Vue](https://img.shields.io/badge/JS-VUE-blue)
+ - ![TypeScript](https://img.shields.io/badge/TS-TypeScript-yellowgreen)
+ - ![ExpressJS](https://img.shields.io/badge/JS-Express.js-red)
 
 
 <br/>
