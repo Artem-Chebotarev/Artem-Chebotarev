@@ -35,8 +35,8 @@
 
 <h3> 🎓 &nbsp;Изучаю в данный момент</h3>
 
- - ![VueJS](https://img.shields.io/badge/JS-VUE-blue)
  - ![TypeScript](https://img.shields.io/badge/TS-TypeScript-yellowgreen)
+ - ![VueJS](https://img.shields.io/badge/JS-VUE-blue)
  - ![ExpressJS](https://img.shields.io/badge/JS-Express.js-red)
 
 
