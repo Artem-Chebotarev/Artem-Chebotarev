@@ -36,8 +36,12 @@
 <br/>
 
 <h3> 🎓 &nbsp;Изучаю в данный момент</h3>
-![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+![AngularCLI](https://img.shields.io/badge/JS-ANGULAR-blue)
+![TypeScript](https://img.shields.io/badge/TS-TypeScript-yellowgreen)
+![ExpressJS](https://img.shields.io/badge/JS-Express.js-red)
 
+
+<br/>
 
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
