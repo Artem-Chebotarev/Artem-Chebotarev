@@ -36,9 +36,10 @@
 <br/>
 
 <h3> 🎓 &nbsp;Изучаю в данный момент</h3>
-![AngularCLI](https://img.shields.io/badge/JS-ANGULAR-blue)
-![TypeScript](https://img.shields.io/badge/TS-TypeScript-yellowgreen)
-![ExpressJS](https://img.shields.io/badge/JS-Express.js-red)
+
+  ![AngularCLI](https://img.shields.io/badge/JS-ANGULAR-blue)
+  ![TypeScript](https://img.shields.io/badge/TS-TypeScript-yellowgreen)
+  ![ExpressJS](https://img.shields.io/badge/JS-Express.js-red)
 
 
 <br/>
