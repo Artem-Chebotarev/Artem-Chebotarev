@@ -51,7 +51,7 @@
 
 <h3> 🤝🏻 &nbsp;Мои контакты: </h3>
 
-<p align="center">
+<p align="left">
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-artp956@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://t.me/ArtemCh1991"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-ArtemCh1991-blue?style=flat-square&logo=telegram"></a>
 </p>
