@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop"/>
 </div>
 
-<h3> 🎓 &nbsp;Learn right now</h3>
+<h3> 🎓 &nbsp;Learning right now</h3>
    <div>
     &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
   </div>
