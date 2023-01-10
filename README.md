@@ -1,17 +1,17 @@
 
-<h2> Всем привет! Я Чеботарев Артем и я Веб-разработчик</h2>
+<h2> Hi there! My name is Artem Chebotarev and I am a Frontend developer</h2>
 
-<h3> 👨🏻‍💻 &nbsp;Обо мне</h3>
+<h3> 👨🏻‍💻 &nbsp;About me</h3>
 
-- 🤔 &nbsp; Интересуюсь новыми технологиями и разрабатываю программные решения.
-- 💼 &nbsp; Я в поиске интересных предложений о работе.
-- 📫 &nbsp; Моя почта: artp956@gmail.com.
-- 🌱 &nbsp; Самостоятельно изучаю Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🤔 &nbsp; I am interested in new technologies and I develop web interfaces.
+- 💼 &nbsp; I am looking for a challenging job.
+- 📫 &nbsp; My email: artp956@gmail.com.
+- 🌱 &nbsp; Now I learn Cloud Architecture, Systems Design.
 
 ![CodeWars](https://www.codewars.com/users/Artem1991/badges/large)
 
 
-<h3> 🛠 &nbsp;Мой стэк технологий</h3>
+<h3> 🛠 &nbsp;My technology stack</h3>
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -32,7 +32,7 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 
-<h3> 🎓 &nbsp;Изучаю в данный момент</h3>
+<h3> 🎓 &nbsp;Learn right now</h3>
 
  - ![TypeScript](https://img.shields.io/badge/TS-TypeScript-yellowgreen)
  - ![VueJS](https://img.shields.io/badge/JS-VUE-blue)
@@ -45,7 +45,7 @@
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artem-Chebotarev&theme=buefy&layout=compact" /> -->
 
 
-<h3> 🤝🏻 &nbsp;Мои контакты: </h3>
+<h3> 🤝🏻 &nbsp;My contacts: </h3>
 
 <p align="left">
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-artp956@gmail.com-blue?style=flat-square&logo=gmail"></a>
