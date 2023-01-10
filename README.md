@@ -14,10 +14,12 @@
 <h3> 🛠 &nbsp;My technology stack</h3>
 
 - 🌐 &nbsp;
+  ![TypeScript](https://img.shields.io/badge/TS-TypeScript-yellowgreen)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
   ![SASS](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 - 🛢 &nbsp;
@@ -34,21 +36,15 @@
 
 <h3> 🎓 &nbsp;Learn right now</h3>
 
- - ![TypeScript](https://img.shields.io/badge/TS-TypeScript-yellowgreen)
- - ![VueJS](https://img.shields.io/badge/JS-VUE-blue)
+ - ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+ - ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  - ![ExpressJS](https://img.shields.io/badge/JS-Express.js-red)
-
-
-
-<!-- <a href="https://github.com/Artem-Chebotarev"> -->
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Artem-Chebotarev&theme=buefy&show_icons=true" /> -->
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artem-Chebotarev&theme=buefy&layout=compact" /> -->
 
 
 <h3> 🤝🏻 &nbsp;My contacts: </h3>
 
 <p align="left">
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-artp956@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://t.me/ArtemCh1991"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-ArtemCh1991-blue?style=flat-square&logo=telegram"></a>
+<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-artp956@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
