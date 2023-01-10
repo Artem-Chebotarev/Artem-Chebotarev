@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About me</h3>
 
-- 🤔 &nbsp; I am interested in new technologies and I develop web interfaces.
+- 🤔 &nbsp; I develop web interfaces and I am interested in new technologies.
 - 💼 &nbsp; I am looking for a challenging job.
 - 📫 &nbsp; My email: artp956@gmail.com.
 - 🌱 &nbsp; Now I learn Cloud Architecture, Systems Design.
